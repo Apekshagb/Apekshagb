@@ -10,6 +10,13 @@ Along with my professional experience as a Software Engineer, I currently volunt
 
 
 - :computer: I’m currently learning Vue.js and 
-- 👯 I’m looking to collaborate on Data Science, ML, Women in Tech
-- ⚡ Fun fact: I love to cook and bake cakes
+- 👯 I’m looking to collaborate on Software Engineering, Data Science, ML
+- :woman_technologist: Looking forward to collaborate with other women technoligist to host workshops, interacive sessions, etc.
+- :teacher: Looking for a mentor/coach to provide career guidance in the field of Software ENgineering.
+- ⚡ Fun fact: I love to cook and bake cakes, love to travel (have visited 30 states in the United States, 20 mor eto go :wink:).
+
+Lets stay connected, you can find me at following.
+
+:diamond_shape_with_a_dot_inside: LinkedIn : https://www.linkedin.com/in/apekshabarhanpur/
+:diamond_shape_with_a_dot_inside: Instagram : https://www.instagram.com/apeksha_barhanpur/?hl=en
 
