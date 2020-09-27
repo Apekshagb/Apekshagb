@@ -17,6 +17,6 @@ Along with my professional experience as a Software Engineer, I currently volunt
 
 Lets stay connected, you can find me at following.
 
-:diamond_shape_with_a_dot_inside: LinkedIn : https://www.linkedin.com/in/apekshabarhanpur/
-:diamond_shape_with_a_dot_inside: Instagram : https://www.instagram.com/apeksha_barhanpur/?hl=en
+- :diamond_shape_with_a_dot_inside: LinkedIn : https://www.linkedin.com/in/apekshabarhanpur/
+- :diamond_shape_with_a_dot_inside: Instagram : https://www.instagram.com/apeksha_barhanpur/?hl=en
 
